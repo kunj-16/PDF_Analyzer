@@ -19,3 +19,5 @@ Copystreamlit run app.py
 Upload a PDF file via the Streamlit interface
 
 Enter a query related to the PDF content and get the response.
+
+Linkedin post link: https://www.linkedin.com/posts/kunj-bhasin-95ba49288_ai-chatbot-ml-activity-7222940658246770689-PzGs?utm_source=share&utm_medium=member_desktop
